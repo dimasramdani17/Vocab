@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+header{
+    
+    background: linear-gradient(45deg, #12365b,#080425);
+}
+.text{
+    position: center;
+    font-variant-ligatures: historical-ligatures;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+
+h1{
+    color: rgb(253, 253, 253);
+    font-size: 50px;
+}
+
